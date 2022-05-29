@@ -1,0 +1,10 @@
+C:\Users\dvend\source\repos\Root13\Root13\bin\Debug\Root13.exe.config
+C:\Users\dvend\source\repos\Root13\Root13\bin\Debug\Root13.exe
+C:\Users\dvend\source\repos\Root13\Root13\bin\Debug\Root13.pdb
+C:\Users\dvend\source\repos\Root13\Root13\obj\Debug\Root13.csproj.AssemblyReference.cache
+C:\Users\dvend\source\repos\Root13\Root13\obj\Debug\Root13.Form1.resources
+C:\Users\dvend\source\repos\Root13\Root13\obj\Debug\Root13.Properties.Resources.resources
+C:\Users\dvend\source\repos\Root13\Root13\obj\Debug\Root13.csproj.GenerateResource.cache
+C:\Users\dvend\source\repos\Root13\Root13\obj\Debug\Root13.csproj.CoreCompileInputs.cache
+C:\Users\dvend\source\repos\Root13\Root13\obj\Debug\Root13.exe
+C:\Users\dvend\source\repos\Root13\Root13\obj\Debug\Root13.pdb
